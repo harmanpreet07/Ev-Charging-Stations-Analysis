@@ -1,6 +1,6 @@
 ⚡ PowerUp: Global EV Charging Analytics Dashboard
 
-
+![](dashboard.pbix)
 🚗 “The future isn’t fuel — it’s power.”
 
 
